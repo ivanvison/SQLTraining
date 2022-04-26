@@ -1,6 +1,6 @@
-## Goal of the section is to focus on SQL Syntax. Same can be applied to any mayor type of SQL DB.
+Goal of the section is to focus on SQL Syntax. Same can be applied to any mayor type of SQL DB.
 
-Quick notes
+## Quick notes
 - ; is not mandatory.
 - Capitalizing keywords is better for standardization.
 
