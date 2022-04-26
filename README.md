@@ -3,7 +3,7 @@ Thank you for getting to this point. This repository was created for a project t
 ## Topics Covered
 - Concepts.
 - PostgreSQL and PgAdmin setup 
-- SQL Tatement Fundamentals
+- SQL Statement Fundamentals
 - GROUP BY Statements
 - JOINS
 - Advanced SQL Commands
