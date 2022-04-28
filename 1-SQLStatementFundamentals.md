@@ -28,7 +28,7 @@ Goal of the section is to focus on SQL Syntax. Same can be applied to any mayor 
 	- Limit the amount of rows in the output
 	- SELECT column1, column 2 FROM table LIMIT ##;
 - `SELECT... BETWEEN`
-	- Used to math a value against a range of values. value BETWEEN/NOT BETWEEN low AND high
+	- Used to match a value against a range of values. value BETWEEN/NOT BETWEEN low AND high
 	- SELECT column1, column 2 FROM table WHERE conditions BETWEEN / NOT BETWEEN
 	- Can be used with dates ISO 8601 format YYYY-MM-DD. Includes also timestamp information.
 - `SELECT .... IN`
